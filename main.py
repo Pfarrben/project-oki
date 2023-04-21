@@ -1,6 +1,6 @@
 import os
 
-from examples import draw_flow_field
+from artist import draw_flow_field
 
 if __name__ == '__main__':
     output_folder = 'Images'
